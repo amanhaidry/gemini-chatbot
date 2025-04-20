@@ -62,7 +62,7 @@ const API_KEY = "YOUR_API_KEY_HERE";
 
 ## Live Demo
 
-You can test the live version of the Gemini Chatbot here: [Chat Now](#)
+You can test the live version of the Gemini Chatbot here: [Chat Now](https://amanhaidry.github.io/gemini-chatbot/)
 
 ---
 
